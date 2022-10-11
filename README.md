@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reason for contributing on the mojoglobal project
 
 Rising temperatures are affecting our climate and as a result, it affects our environment and the functions it delivers.
@@ -12,3 +13,6 @@ Climate change reflects the variations in the average daily weather conditions s
 The Nigerian climate has been irregular over the years, alternating between periods of extreme dry or rainy seasons.Climate change in Nigeria has led to seasons 
 of drought and excess flood, which affected agricultural activities and caused a loss of shelter. 
 In 2019, the National Emergency Management Agency revealed floods had displaced approximately 1.9 million Nigerians.
+=======
+i really am interested in the project.
+>>>>>>> 76570ef9d254059f12809df9a1bceac4d7bd2a40
