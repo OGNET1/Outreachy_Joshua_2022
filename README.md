@@ -14,5 +14,4 @@ The Nigerian climate has been irregular over the years, alternating between peri
 of drought and excess flood, which affected agricultural activities and caused a loss of shelter. 
 In 2019, the National Emergency Management Agency revealed floods had displaced approximately 1.9 million Nigerians.
 =======
-i really am interested in the project.
 >>>>>>> 76570ef9d254059f12809df9a1bceac4d7bd2a40
